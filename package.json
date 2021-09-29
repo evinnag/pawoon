@@ -1,0 +1,24 @@
+{
+  "name": "pawoon",
+  "version": "1.0.0",
+  "description": "Recruitment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/testcafe chrome technicalTest/register.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/evinnag/pawoon.git"
+  },
+  "author": "Evinna Ginola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evinnag/pawoon/issues"
+  },
+  "homepage": "https://github.com/evinnag/pawoon#readme",
+  "dependencies": {
+    "testcafe": "^1.16.0",
+    "@cucumber/cucumber": "^7.3.1",
+    "gherkin-testcafe": "^5.1.0"
+  }
+}

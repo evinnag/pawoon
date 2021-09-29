@@ -1,0 +1,11 @@
+What we should check:
+
+1. Check if we can fill the email field
+2. Check if we can fill the password field
+3. User must input email format on email field
+4. User can click on checkbox "Tetap Masuk"
+5. User can click "Lupa Password" and will be direct to another page
+6. User can click login and will be direct to homepage if email and password is correct
+7. Email field is required
+8. Password field is required
+9. User can click "Daftar Sekarang" and will be direct to the register page
